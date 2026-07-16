@@ -1,1 +1,5 @@
-console.log("10"+true);
+let a = 45
+
+console.log((params) => {
+    
+});
